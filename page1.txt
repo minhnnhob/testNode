@@ -32,7 +32,8 @@
       </style>
 
     <h1 style="font-family: impact; ">Hiển thị tiêu đề</h1>
-    <h1 style="font-family: impact; "><a href="Index.html">Quay lại trang trước</a></h1>
+    <h1 style="font-family: impact; "><a href="/" >Quay lại trang trước</a></h1>
+    
     <p style="color:red;"class="center">Một đoạn văn bruhh</p>
     <p style="color:blue;"class="center">Một đoạn văn bruhh</p>
     <p style="color:green;"class="center">Một đoạn văn bruhh</p>
