@@ -6,7 +6,7 @@
 
     app.get('/',(req,res)=>{
         res.writeHead(200,{'Content-Type':'text/html'});
-        res.write('<html><body><p>is Kha Banh Time </p><img src="https://znews-photo.zingcdn.me/w660/Uploaded/pwivovlb/2019_04_02/banh.jpg"><body><html>');
+        res.write('<html><body><p>is Kha Banh Time </p><img src="https://znews-photo.zingcdn.me/w660/Uploaded/pwivovlb/2019_04_02/banh.jpg"><a href="/student">Go to my chanel</a><body><html>');
         res.end();
     })
     var content = f.readFileSync("page1.txt","utf-8")
