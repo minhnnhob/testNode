@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>He he</title>
+    
+</head>
+
+<body>
+    <style>
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+        outline: auto;
+        
+
+        width: 50%;
+      }
+      
+      .centerText {
+        display:auto;
+        margin-left: auto;
+        margin-right: auto;
+
+        width: 50%;
+      }
+      
+      </style>
+
+    <h1 style="font-family: impact; ">Hiển thị tiêu đề</h1>
+    <h1 style="font-family: impact; "><a href="Index.html">Quay lại trang trước</a></h1>
+    <p style="color:red;"class="center">Một đoạn văn bruhh</p>
+    <p style="color:blue;"class="center">Một đoạn văn bruhh</p>
+    <p style="color:green;"class="center">Một đoạn văn bruhh</p>
+    <h2 class="center">Hi! welcom to mai chai nồ</h2>
+                <tr>
+              <th><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://i1.sndcdn.com/artworks-T6uarHyit19WyNFT-TxVypQ-t500x500.jpg" 
+                style="border-radius: 30px; width: 30%; height: 30%; align-self:left;" ></a></th>
+              <th  ><a style="font-family: monospace; border: 3px solid red; font-size: 26px; ">
+                click image to listen music</a></th>
+              <th><a href="../student1.html"><img src="/images/Artboard 1.png"  style="border-radius: 30px; width: 30%; height: 30%; align-self:right;"  ></a></th>
+           </tr>
+</html>
